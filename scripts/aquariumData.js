@@ -56,5 +56,24 @@ export const database = {
             diet: "Omnivore",
             image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Pez_erizo_de_espinas_largas_%28Diodon_holocanthus%29%2C_islas_Ad_Dimaniyat%2C_Om%C3%A1n%2C_2024-08-13%2C_DD_45.jpg"
         }
+    ],
+    tips: [
+        {
+            topic: "Water Temperature",
+            text: "Maintain a consistent water temperature between 75-80°F (24-27°C) for most tropical fish."
+        },
+        {
+            topic: "Water Filtration",
+            text: "Use a sponge filter to provide a gentle flow and reliability. Simple to install and clean each month."
+        },
+        {
+            topic: "Tank Lighting",
+            text: "If you are growing live plants, use an LED tank light to keep algae growth under control."
+        },
+        {
+            topic: "Water Quality",
+            text: "Disinfect tap water, as water treatment facilities use chemicals that are harmful to fish. Use aquarium water test strips to check if water is balanced."
+        }
+
     ]
 }
