@@ -75,5 +75,22 @@ export const database = {
             text: "Disinfect tap water, as water treatment facilities use chemicals that are harmful to fish. Use aquarium water test strips to check if water is balanced."
         }
 
+    ],
+    locations: [
+        {
+            name: "Great Barrier Reef",
+            country: "Australia",
+            description: "The Great Barrier Reef is the world's largest coral reef system, supporting a diverse array of marine life."
+        },
+        {
+            name: "Mediterranean Sea",
+            country: "Europe, Africa, Asia",
+            description: "THe Mediterranean Sea holds 1 in 10 known marine species, of which 28% are found nowhere else on Earth."
+        },
+        {
+            name: "Great Mayan Reef",
+            country: "Mexico, Belize, Guatemala, Honduras",
+            description: "The Great Mayan Reef is home to more than 65 species of stony coral, 350 species of mollusk and more than 500 species of fish."
+        }
     ]
 }
