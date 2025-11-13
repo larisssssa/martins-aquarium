@@ -17,20 +17,20 @@ export const database = {
             image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Paletten-Doktorfisch_M%C3%BCnster.JPG"
         },
         {
-            name: "Gill",
-            species: "Moorish Idol",
-            length: 8,
-            location: "Great Barrier Reef",
-            diet: "Omnivore",
-            image: "https://upload.wikimedia.org/wikipedia/commons/7/71/%C3%8Ddolo_moro_%28Zanclus_cornutus%29%2C_Anilao%2C_Filipinas%2C_2023-08-25%2C_DD_233.jpg"
+            name: "Cutie",
+            species: "Rainbow Wrasse",
+            length: 6,
+            location: "Mediterranean seagrass beds",
+            diet: "Carnivore",
+            image: "https://pet-health-content-media.chewy.com/wp-content/uploads/2025/04/16202118/202503202406saltwater-fish-rainbow-wrasse.jpg"
         },
         {
-            name: "Jacques",
-            species: "Pacific Cleaner Shrimp",
-            length: 3,
+            name: "Popper",
+            species: "Undulate TriggerFish",
+            length: 12,
             location: "Great Barrier Reef",
             diet: "Omnivore",
-            image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lysmata_amboinensis_in_Tropicarium-Oceanarium_Budapest.JPG/800px-Lysmata_amboinensis_in_Tropicarium-Oceanarium_Budapest.JPG"
+            image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg"
         },
         {
             name: "Gurgle",
@@ -49,12 +49,12 @@ export const database = {
             image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Humbug_dascyllus_%28Dascyllus_aruanus%29_%2848652156722%29.jpg"
         },
         {
-            name: "Bloat",
-            species: "Porcupine Pufferfish",
-            length: 20,
-            location: "Great Barrier Reef",
-            diet: "Omnivore",
-            image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Pez_erizo_de_espinas_largas_%28Diodon_holocanthus%29%2C_islas_Ad_Dimaniyat%2C_Om%C3%A1n%2C_2024-08-13%2C_DD_45.jpg"
+            name: "Rocky",
+            species: "Yellowhead Jawfish",
+            length: 3,
+            location: "Caribbean Sea Reef",
+            diet: "Carnivore",
+            image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Opistognathus_aurifrons.jpg"
         }
     ],
     tips: [
