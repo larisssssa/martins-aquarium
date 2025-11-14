@@ -1,6 +1,27 @@
-main {
+.left-side {
+    float: left;
+    width: 75%;
+
+}
+
+.left-side img {
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.right-side {
+    float: right;
+    width: 25%;
+
+}
+.fish-unit {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
+    justify-content: space-around;
 
+}
+
+.fish {
+    text-align: center;
+    width: 50%;
 }

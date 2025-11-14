@@ -2,3 +2,21 @@ header {
     background-color: lightblue;
     
 }
+
+main {
+    border: 8px solid black;
+}
+
+#fish-list {
+    border: 5px solid purple;
+}
+#location-list {
+    border: 5px solid orange;
+}
+#tip-list {
+    border: 5px solid lime;
+}
+
+.section-title {
+    text-align: center;
+}

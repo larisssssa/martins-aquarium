@@ -3,7 +3,7 @@ import { database } from './aquariumData.js';
 export const locationList = () => {
     let locationListHTML = `
     <article id="location-list">
-    <h2>Locations</h2>`
+    <h2 class="section-title">Locations</h2>`
 
     for (const location of database.locations) {
         locationListHTML += `

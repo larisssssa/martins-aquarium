@@ -4,14 +4,15 @@ export const fishList = () => {
     // Generate an HTML representation of each fish
     let fishListHTML = `
     <article id='fish-list'>
-    <h2>Fish</h2>`
+    <h2 class="section-title">Fish</h2>
+    <span class="fish-unit">
+    `
     
     for (const fish of database.fish) {
         fishListHTML +=`
-        
-            <div class="fish_details">
-                <img src="${fish.image}" alt="${fish.name} image" class="fish_image"></img>
-                <h3 class="fish_name">${fish.name}</h3>
+            <div class="fish">
+                <img src="${fish.image}" alt="${fish.name} image" class="fish-image"></img>
+                <h3 class="fish-name">${fish.name}</h3>
                 <p class="fish-species">Species: ${fish.species}</p>
                 <p class="fish-length">Length: ${fish.length}</p>
                 <p class="fish-location">Location: ${fish.location}</p>
@@ -20,6 +21,7 @@ export const fishList = () => {
     `
     }
 
-    fishListHTML += `</article>`
+    fishListHTML += `</span>
+    </article>`
     return fishListHTML
 };
