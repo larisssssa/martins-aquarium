@@ -1,27 +1,22 @@
-.left-side {
+main section {
     float: left;
-    width: 75%;
+    max-width: 70%;
 
 }
 
-.left-side img {
-    width: 70%;
-    box-sizing: border-box;
-}
-
-.right-side {
+main aside {
     float: right;
-    width: 25%;
+    max-width: 25%;
 }
 
 .fish-unit {
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
-
+    justify-content: space-evenly;
 }
 
 .fish {
     text-align: center;
-    width: 50%;
+    width: 49%;
 }
