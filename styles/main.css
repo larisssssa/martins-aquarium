@@ -1,23 +1,35 @@
-header {
-    background-color: lightblue;
+body {
+    background-color: #219EBC;
+    color: #023047;
+    padding: 10px;
+    font-family: "Montserrat", sans-serif;
 }
 
-main {
-    border: 8px solid black;
+header {
+    color: #023047;
+    text-align: center;
+    font-size: 200%;
 }
 
 #fishList {
-    border: 5px solid purple;
+    border: 5px solid #FFB703;
+    background-color: #8ECAE6;
 }
 #locationList {
-    border: 5px solid orange;
+    border: 5px solid #FFB703;
+    background-color: #8ECAE6;
+    margin: 10px 0 0 0;
+
 }
 #tipList {
-    border: 5px solid lime;
+    border: 5px solid #FFB703;
+    background-color: #8ECAE6;
+
 }
 
 .section-title {
     text-align: center;
+    font-size: 200%;
 }
 
 .fish-unit img {
@@ -31,6 +43,7 @@ main {
 
 .tips {
     padding: 0px 20px;
+    font-size: large;
 }
 
 .tip {
@@ -46,3 +59,7 @@ main {
     text-align: justify;
 }
 
+.location {
+    text-align: center;
+    max-width: 49%;
+}

@@ -41,14 +41,6 @@ export const database = {
             image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gramma_loreto%2C_Adult_%28Royal_Gramma%29.jpg/800px-Gramma_loreto%2C_Adult_%28Royal_Gramma%29.jpg"
         },
         {
-            name: "Deb",
-            species: "Humbug Damselfish",
-            length: 3,
-            location: "Great Barrier Reef",
-            diet: "Omnivore",
-            image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Humbug_dascyllus_%28Dascyllus_aruanus%29_%2848652156722%29.jpg"
-        },
-        {
             name: "Rocky",
             species: "Yellowhead Jawfish",
             length: 3,
@@ -85,7 +77,7 @@ export const database = {
         {
             name: "Mediterranean Sea",
             country: "Europe, Africa, Asia",
-            description: "THe Mediterranean Sea holds 1 in 10 known marine species, of which 28% are found nowhere else on Earth."
+            description: "The Mediterranean Sea holds 1 in 10 known marine species, of which 28% are found nowhere else on Earth."
         },
         {
             name: "Great Mayan Reef",
