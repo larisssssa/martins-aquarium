@@ -1,6 +1,5 @@
 header {
     background-color: lightblue;
-    
 }
 
 main {
@@ -20,3 +19,25 @@ main {
 .section-title {
     text-align: center;
 }
+
+.fish p {
+    margin: 5px;
+}
+
+.tips {
+    padding: 0px 20px;
+}
+
+.tip {
+    list-style-type: none;
+}
+
+.tip--topic {
+    text-align: center;
+    font-weight: bold;
+}
+
+.tip--text {
+    text-align: justify;
+}
+

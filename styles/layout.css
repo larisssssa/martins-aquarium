@@ -5,15 +5,15 @@
 }
 
 .left-side img {
-    width: 200px;
+    width: 70%;
     box-sizing: border-box;
 }
 
 .right-side {
     float: right;
     width: 25%;
-
 }
+
 .fish-unit {
     display: flex;
     flex-wrap: wrap;

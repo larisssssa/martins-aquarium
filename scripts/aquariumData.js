@@ -54,7 +54,7 @@ export const database = {
             length: 3,
             location: "Caribbean Sea Reef",
             diet: "Carnivore",
-            image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Opistognathus_aurifrons.jpg"
+            image: "https://www.blennywatcher.com/wp-content/uploads/2021/04/Male-jawfish-with-eggs-DeLoach.jpg"
         }
     ],
     tips: [
