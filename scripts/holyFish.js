@@ -2,7 +2,7 @@ import { database } from './aquariumData.js';
 
 export const mostHolyFish = () => {
     // 3, 6, 9, 12, etc... fish
-    const holyFish = ""
+    let holyFish = ``
 
     for (const fish of database.fish) {
         if (fish.length % 3 === 0) {

@@ -2,12 +2,12 @@ import { database } from './aquariumData.js';
 
 export const regularFish = () => {
     // 3, 6, 9, 12, etc... fish
-    const regularFish = ""
+    let regularFish = ``
 
     for (const fish of database.fish) {
         if (!(fish.length % 5 === 0) && !(fish.length % 3 === 0)) {
             regularFish += `
-            <section class="fish fish--holy">
+            <section class="fish fish--regular">
                 <img src="${fish.image}" alt="${fish.name} image" class="fish-image"></img>
                 <h3 class="fish-name">${fish.name}</h3>
                 <p class="fish-species">Species: ${fish.species}</p>

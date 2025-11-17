@@ -2,7 +2,7 @@ import { database } from './aquariumData.js';
 
 export const soldierFish = () => {
     // 3, 6, 9, 12, etc... fish
-    const soldierFish = ""
+    let soldierFish = ``
 
     for (const fish of database.fish) {
         if (fish.length % 5 === 0 && !(fish.length % 3 === 0)) {
