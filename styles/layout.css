@@ -5,7 +5,7 @@
 
 #tipList {
     float: right;
-    width: 35%;
+    width: 30%;
 }
 
 .fish-unit {
@@ -28,5 +28,4 @@
     flex-flow: row wrap;
     justify-content: space-evenly;
 }
-
 

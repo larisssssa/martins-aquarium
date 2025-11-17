@@ -11,20 +11,13 @@ header {
     font-size: 200%;
 }
 
-#fishList {
-    border: 5px solid #FFB703;
+#fishList, #locationList, #tipList {
+    border: 3px solid #FFB703;
     background-color: #8ECAE6;
+    padding: 10px;
 }
 #locationList {
-    border: 5px solid #FFB703;
-    background-color: #8ECAE6;
     margin: 10px 0 0 0;
-
-}
-#tipList {
-    border: 5px solid #FFB703;
-    background-color: #8ECAE6;
-
 }
 
 .section-title {

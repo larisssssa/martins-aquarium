@@ -110,7 +110,7 @@ export const database = {
             length: 26,
             location: "Congo River",
             diet: "Carnivore",
-            image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Tetraodon_mbu_2.jpg"
+            image: "https://i.redd.it/i-met-murphy-the-mbu-puffer-today-v0-7vqw239721h91.jpg?width=4032&format=pjpg&auto=webp&s=a052400da6c0102f17ac44fce2ded1a1b726b1f1"
         },
         {
             name: "Snak",
