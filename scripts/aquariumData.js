@@ -47,6 +47,78 @@ export const database = {
             location: "Caribbean Sea Reef",
             diet: "Carnivore",
             image: "https://www.blennywatcher.com/wp-content/uploads/2021/04/Male-jawfish-with-eggs-DeLoach.jpg"
+        },
+        {
+            name: "Jaws",
+            species: "Bamboo Shark",
+            length: 48,
+            location: "Great Barrier Reef",
+            diet: "Carnivore",
+            image: "https://www.aquariumbiarritz.com/wp-content/uploads/2025/06/requin-chabot-bambou.jpg"
+        },
+        {
+            name: "Benny",
+            species: "Bicolor Blenny",
+            length: 4,
+            location: "Great Barrier Reef",
+            diet: "Herbivore",
+            image: "https://www.aquariumgallery.com.au/cdn/shop/files/Bicolor-Blenny-1024x635.jpg"
+        },
+        {
+            name: "Joker",
+            species: "Clown Loach",
+            length: 6,
+            location: "Indonesian streams",
+            diet: "Omnivore",
+            image: "https://eshalabs.com/wp-content/uploads/Chromobotia-macracanthus.jpg"
+        },
+        {
+            name: "Kitty",
+            species: "Banjo Catfish",
+            length: 6,
+            location: "Amazon River",
+            diet: "Omnivore",
+            image: "https://aquaticarts.com/cdn/shop/products/Banjo_Catfish_5.jpg"
+        },
+        {
+            name: "X-Ray",
+            species: "Glass Fish",
+            length: 3,
+            location: "South and Southeast Asia",
+            diet: "Omnivore",
+            image: "https://www.biolib.cz/IMG/GAL/BIG/417787.jpg"
+        },
+        {
+            name: "Peppa",
+            species: "Lambchop Rasbora",
+            length: 1,
+            location: "Thailand, Cambodia streams",
+            diet: "Omnivore",
+            image: "https://aquaticarts.com/cdn/shop/products/Lambchop-Rasbora-NEW-Small-5.jpg"
+        },
+        {
+            name: "Jazz",
+            species: "Red Scat",
+            length: 15,
+            location: "Persian Gulf",
+            diet: "Omnivore",
+            image: "https://as1.ftcdn.net/jpg/05/57/95/20/1000_F_557952021_O8WS7gURBzeAoeW7HjVhBeM8x2AerDcH.jpg"
+        },
+        {
+            name: "Smoke",
+            species: "Mbu pufferfish",
+            length: 26,
+            location: "Congo River",
+            diet: "Carnivore",
+            image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Tetraodon_mbu_2.jpg"
+        },
+        {
+            name: "Snak",
+            species: "Black Kuhli Loach",
+            length: 4,
+            location: "Indonesia",
+            diet: "Omnivore",
+            image: "https://i.redd.it/4eystw9k5ww81.jpg"
         }
     ],
     tips: [
@@ -83,6 +155,16 @@ export const database = {
             name: "Great Mayan Reef",
             country: "Mexico, Belize, Guatemala, Honduras",
             description: "The Great Mayan Reef is home to more than 65 species of stony coral, 350 species of mollusk and more than 500 species of fish."
+        },
+        {
+            name: "Amazon River",
+            country: "Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela, Guyana, Suriname, and French Guiana",
+            description: "The Amazon River hosts over 3,000 fish species, some species are so unique to their isolated lake environments that they may have evolved in isolation for thousands of years."
+        },
+        {
+            name: "Persian Gulf",
+            country: "Iran and Arabian Peninsula",
+            description: "The Persian Gulf is approximately 990km long, making it an important waterway for shipping. It has a rich marine life, including fish, coral and rocky reefs, and pearl oysters."
         }
     ]
 }
